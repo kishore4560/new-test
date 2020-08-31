@@ -1,2 +1,2 @@
 # new-test
-new repo
+new repo for learning git
