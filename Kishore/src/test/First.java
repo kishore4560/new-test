@@ -2,9 +2,14 @@ package test;
 
 public class First {
 
-	public static void main(String[] args) {
+	public void kishore() {
 			System.out.println("Execute");
 			System.out.println("Branch Kishore");
+	}
+	
+	public static void main(String[] args) {
+		First f = new First();
+		f.kishore();
 	}
 
 }
